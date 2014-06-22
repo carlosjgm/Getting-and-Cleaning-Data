@@ -3,7 +3,7 @@ Getting-and-Cleaning-Data
 
 This is the repository for the "Getting and Cleaning Data" course project from Coursera.
 
-Place the run_analysis.R script in the UCI HAR Dataset directory (download [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)).
+Before running run_analysis.R script in R, make sure that the working directory is set to be the UCI HAR Dataset directory (download [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)).
 
 ##Running the script does the following:
 1. Merges the training and the test sets to create one data set.
